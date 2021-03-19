@@ -1,5 +1,5 @@
 Django==3.0.5
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 psycopg2-binary==2.8.5
 pytest-django==3.9.0
 pytest==5.4.1
